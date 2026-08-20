@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Qual é o objetivo do Informativo Mensal de Petróleo e Gás?",
+    "expected_document": "doc1.pdf",
+    "expected_answer": "Reunir informações sobre a produção de petróleo e gás natural no Estado do Rio de Janeiro, apresentar as participações governamentais geradas e mostrar variáveis que impactam seu cálculo, como taxa de câmbio e preços de referência."
+  },
+  {
+    "question": "Qual foi a participação percentual do Rio de Janeiro nos royalties creditados aos estados brasileiros em dezembro de 2025, segundo o informativo de janeiro de 2026?",
+    "expected_document": "doc1.pdf",
+    "expected_answer": "O Rio de Janeiro teve 85,29% de participação nos royalties creditados aos estados brasileiros."
+  },
+  {
+    "question": "Qual foi o valor acumulado de royalties destinado aos municípios fluminenses em dezembro de 2025, conforme o informativo de janeiro de 2026?",
+    "expected_document": "doc1.pdf",
+    "expected_answer": "O total destinado aos municípios fluminenses foi de R$ 1.271.695.820,24."
+  },
+  {
+    "question": "Qual é a defasagem indicada no informativo entre a produção de hidrocarbonetos e a distribuição das participações governamentais?",
+    "expected_document": "doc1.pdf",
+    "expected_answer": "Há uma defasagem de dois meses entre a produção de hidrocarbonetos e a distribuição das participações governamentais."
+  },
+  {
+    "question": "Quais variáveis são apresentadas como relevantes para o cálculo das participações governamentais?",
+    "expected_document": "doc1.pdf",
+    "expected_answer": "Entre as variáveis destacadas estão a taxa de câmbio e os preços das cestas de derivados utilizados para estabelecer os preços de referência do petróleo e do gás natural."
+  },
+  {
+    "question": "Qual é a finalidade do Plano Anual de Atividades da Auditoria Interna (PLANAT) do IEEA para 2026?",
+    "expected_document": "doc2.pdf",
+    "expected_answer": "Definir as atividades que serão realizadas pela Unidade de Controle Interno/Auditoria no exercício de 2026, incluindo o ambiente auditado, programas orçamentários, equipe, auditorias, riscos, restrições e aprovação do plano."
+  },
+  {
+    "question": "Em qual linha de defesa está posicionada a Auditoria Interna Governamental segundo o documento?",
+    "expected_document": "doc2.pdf",
+    "expected_answer": "A Auditoria Interna Governamental está posicionada na Terceira Linha de Defesa."
+  },
+  {
+    "question": "A quem a Auditoria do IEEA está vinculada hierárquica e tecnicamente?",
+    "expected_document": "doc2.pdf",
+    "expected_answer": "Hierarquicamente, está vinculada ao Titular do Órgão; tecnicamente, à Controladoria Geral do Estado (CGE/RJ)."
+  },
+  {
+    "question": "Quantos servidores compõem atualmente o quadro funcional da Auditoria do IEEA?",
+    "expected_document": "doc2.pdf",
+    "expected_answer": "O quadro funcional atual da Auditoria do IEEA é composto por apenas um servidor, identificado como Auditor-Chefe."
+  },
+  {
+    "question": "Quais são alguns dos sistemas utilizados pela Auditoria do IEEA?",
+    "expected_document": "doc2.pdf",
+    "expected_answer": "Entre os sistemas mencionados estão o SIAFE-Rio, o Sistema Eletrônico de Informações (SEI), o U.P.O. e o SIAUDI-RJ."
+  },
+  {
+    "question": "Quais instituições celebram o Termo de Cooperação nº 2083446/2026?",
+    "expected_document": "doc3.pdf",
+    "expected_answer": "A Defensoria Pública do Estado do Rio de Janeiro (DPERJ) e o Instituto Estadual de Engenharia e Arquitetura (IEEA)."
+  },
+  {
+    "question": "Qual é o objeto principal do Termo de Cooperação nº 2083446/2026?",
+    "expected_document": "doc3.pdf",
+    "expected_answer": "Elaborar projeto básico de engenharia e arquitetura, orçamento, acompanhar obras e apoiar licitações para contratação de empresas destinadas a obras de construção, reforma, restauro, manutenção e ampliação de imóveis sob jurisdição da DPERJ."
+  },
+  {
+    "question": "Qual é o prazo de vigência previsto para o Termo de Cooperação?",
+    "expected_document": "doc3.pdf",
+    "expected_answer": "O Termo vigora por 24 meses a partir da publicação de seu extrato no Diário Oficial Eletrônico da DPERJ, podendo ser prorrogado conforme os limites legais e o interesse das partes."
+  },
+  {
+    "question": "O Termo de Cooperação prevê transferência de recursos financeiros entre os partícipes?",
+    "expected_document": "doc3.pdf",
+    "expected_answer": "Não. O documento estabelece que o Termo de Cooperação não envolve transferência de recursos financeiros entre os partícipes."
+  },
+  {
+    "question": "Qual é a condição para que os entregáveis sejam considerados aptos?",
+    "expected_document": "doc3.pdf",
+    "expected_answer": "Os entregáveis somente são considerados aptos após o aceite formal do servidor fiscal designado pela Diretoria de Infraestrutura e Engenharia (DIE)."
+  },
+  {
+    "question": "Qual é o objetivo do PEDTIC da SEAPPA?",
+    "expected_document": "doc4.pdf",
+    "expected_answer": "Promover a melhoria contínua dos processos e otimizar a gestão de recursos públicos, assegurando a disponibilidade de informações mais precisas para embasar decisões."
+  },
+  {
+    "question": "Qual é o período de vigência da revisão do PEDTIC da SEAPPA?",
+    "expected_document": "doc4.pdf",
+    "expected_answer": "A revisão do PEDTIC abrange o período de 2024 a 2027, acompanhando o período do PPA 2024-2027."
+  },
+  {
+    "question": "Qual foi o principal impacto da restrição orçamentária sobre os objetivos estratégicos de TIC da SEAPPA?",
+    "expected_document": "doc4.pdf",
+    "expected_answer": "A restrição financeira comprometeu a aquisição de soluções de TIC, dificultou a conclusão da adesão à LGPD, atrasou a replicação de servidor virtual e impediu a implementação da governança de TI planejada."
+  },
+  {
+    "question": "Quais problemas de infraestrutura tecnológica são destacados na avaliação do PEDTIC anterior?",
+    "expected_document": "doc4.pdf",
+    "expected_answer": "Foram identificadas falhas em um servidor Dell PowerEdge R710, em um storage Dell EqualLogic PS6000, na unidade de fita e baixo desempenho de um nobreak ETN 9e, levando à previsão de substituições e serviços de manutenção."
+  },
+  {
+    "question": "Quais instrumentos ou etapas fazem parte do cronograma de elaboração e revisão do PEDTIC?",
+    "expected_document": "doc4.pdf",
+    "expected_answer": "O cronograma inclui apresentação da estrutura organizacional, revisão da matriz SWOT/FOFA, definição dos objetivos estratégicos de TIC e alinhamento dos instrumentos, preparação do comitê, avaliação do PEDTIC anterior, planejamento, levantamento de prioridades, gestão de pessoas, inventário de recursos de TIC e produção do relatório final."
+  }
+]

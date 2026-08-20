@@ -1,0 +1,24 @@
+# Ambientes virtuais / cache Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Variáveis de ambiente e segredos
+.env
+
+# Banco vetorial persistido (gerado pela indexação)
+chroma_db/
+
+# PDFs de origem (não versionar documentos reais dos usuários)
+data/pdfs/*.pdf
+!data/pdfs/.gitkeep
+
+# Relatório de avaliação gerado automaticamente
+data/eval/eval_report.json
+
+# SO / IDE
+.DS_Store
+.vscode/
+.idea/

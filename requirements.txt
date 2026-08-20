@@ -1,0 +1,25 @@
+# --- LangChain (core + integrações) ---
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-community>=0.3.0
+langchain-text-splitters>=0.3.0
+langchain-chroma>=0.2.0
+langchain-openai>=0.2.0
+langchain-huggingface>=0.1.0
+
+# --- Banco vetorial ---
+chromadb>=0.5.0
+
+# --- Leitura de PDF ---
+pypdf>=4.0.0
+
+# --- Embedding léxico (HashingVectorizer) ---
+scikit-learn>=1.4.0
+
+# --- Embedding semântico local (sentence-transformers/all-MiniLM-L6-v2) ---
+sentence-transformers>=3.0.0
+
+# --- Configuração via .env ---
+python-dotenv>=1.0.0
+
+urllib3<2
